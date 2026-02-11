@@ -1,16 +1,1 @@
 https://github.com/abra0x0y0z0-blip/Nahomi-Commander.git
-
-
-echo "# Nahomi-Commander" >> README.md
-Git init
-git añadir README.md
-git commit -m "first commit"
-Rama git -M principal
-git remote añadir origen https://github.com/abra0x0y0z0-blip/Nahomi-Commander.git
-git push -u origen principal
-
-...o empuje un repositorio existente desde la línea de comandos
-
-git remote añadir origen https://github.com/abra0x0y0z0-blip/Nahomi-Commander.git
-Rama git -M principal
-git push -u origen principal
